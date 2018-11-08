@@ -1,0 +1,35 @@
+
+body{
+  background-color: #dfe3ee;
+  height: 4000px;
+}
+
+h1{
+  font-family: "Klavika";
+  color: white;
+}
+
+#loginButton{
+  color:
+}
+
+#topBox {
+  height: 100px;
+  justify-content: space-between;
+  background: #3B5998;
+  padding-left: 20px;
+  grid-area: header;
+}
+
+th{
+  color: white;
+}
+
+.flex-container{
+  display: flex;
+
+}
+
+h1{
+    font-family: facebookFont;
+}
